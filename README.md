@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neb-ki
-- 👀 I’m interested in doing well at Ki
-- 🌱 I’m currently learning how to do well at Ki
-- 💞️ I’m looking to collaborate on doing well at Ki
+- 👀 I’m interested in machine learning, data science, large language models, and the nature of knowledge
+- 🌱 I’m currently learning data and algo engineering
+- 💞️ I’m looking to collaborate on interesting ML-related projects (ideally NLP)
 - 📫 How to reach me: neb.jovanovic@ki-insurance.com
 
 <!---
